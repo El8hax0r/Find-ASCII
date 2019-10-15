@@ -15,7 +15,7 @@ class Ascii
         // Grab the first character of the string (str[0])
         // code here = str[0];
 
-        char first = input[0];
+        char first = input[0]; //and stuff like this I'm modifying to commit test---
 
         // Convert the character to an integer to get the ascii value
         // code here = (int)ch;
