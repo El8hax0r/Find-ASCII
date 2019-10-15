@@ -1,0 +1,6 @@
+C:\Users\matth\source\repos\Find ASCII\obj\Debug\Find ASCII.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\Find ASCII\bin\Debug\Find ASCII.exe.config
+C:\Users\matth\source\repos\Find ASCII\bin\Debug\Find ASCII.exe
+C:\Users\matth\source\repos\Find ASCII\bin\Debug\Find ASCII.pdb
+C:\Users\matth\source\repos\Find ASCII\obj\Debug\Find ASCII.exe
+C:\Users\matth\source\repos\Find ASCII\obj\Debug\Find ASCII.pdb
