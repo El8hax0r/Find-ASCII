@@ -12,6 +12,8 @@ class Ascii
 
         string input = Console.ReadLine();
 
+        //or maybe I change this??
+
         // Grab the first character of the string (str[0])
         // code here = str[0];
 
